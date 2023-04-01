@@ -49,13 +49,12 @@
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{ partial "tags.html" . }}
-      <h4>Rating {{ .Params.rating }}/10 | Difficulty {{ .Params.difficulty }}/10</h4>
-      <h3>Ingredients</h3>
-      - {{ delimit .Params.ingredients "<br>- " }}
-      <h3>Recipe</h3>
-      {{- .Content -}}
-      <h3>Review</h3>
+      <h3>Rating {{ .Params.rating }}/10 | Difficulty {{ .Params.difficulty }}/10</h3>
       {{ .Params.review }}
+      <h2>Ingredients</h2>
+      - {{ delimit .Params.ingredients "<br>- " }}
+      <h2>Recipe</h2>
+      {{- .Content -}}
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}

@@ -7,14 +7,11 @@ tags:
     - Vegetarian
     - Sides
 ingredients: 
-    - "bla bla"
-    - "X this"
-    - "Y this"
-    - "For bla bla bla:\nxyz"
-rating: 8
-difficulty: 3
-review: "Super tasty, bla bla bla"
+    - x
+rating: x
+difficulty: x
+review: "awaiting review"
 featured_image: "/images/sabaayad.webp"
 ---
 
-This post doesn't have any real content
+This post doesn't have any real content yet
