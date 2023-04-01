@@ -8,3 +8,5 @@ theme = 'ananke'
   categories = "categories"
   rating = "rating"
   review = "review"
+  difficulty = "difficulty"
+  ingredients = "ingredients"
