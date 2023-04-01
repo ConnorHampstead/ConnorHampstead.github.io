@@ -1,0 +1,9 @@
+.tag-btn {
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+.tag-btn.active {
+    background-color: #007bff;
+    color: #ffffff;
+  }
