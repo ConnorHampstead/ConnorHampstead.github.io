@@ -9,10 +9,6 @@ RUN groupadd --gid $USER_GID $USERNAME \
     && chmod 0440 /etc/sudoers.d/$USERNAME
 
 USER $USERNAME
-ENV LANG=en_US.UTF-8
-ENV LC_ALL=$LANG
-RUN sudo locale-gen $LANG \
-    && sudo update-locale LANG=$LANG LC_ALL=$LANG
 
 # 1313 is default hugo port
 EXPOSE 1313
