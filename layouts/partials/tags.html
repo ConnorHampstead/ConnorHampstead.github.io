@@ -1,0 +1,19 @@
+<ul class="pa0">
+    {{ if isset . "allTags" }}
+      {{ range $key, $value := .allTags }}
+        <li class="list di">
+          <a href="{{ relURL (printf "tags/%s" $key) }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+            {{ $key }}
+          </a>
+        </li>
+      {{ end }}
+    {{ else }}
+      {{ range .GetTerms "tags" }}
+        <li class="list di">
+          <a href="{{ .RelPermalink }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+            {{- .LinkTitle -}}
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+</ul>
