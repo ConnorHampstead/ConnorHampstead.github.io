@@ -28,9 +28,6 @@ content_image: "/images/garlic-pasta.png"
 1. Add pasta to pan
 1. Bring pan to a boil on 8/10, then reduce to a simmer (5/10)
 1. Let pasta cook until al dente
-     - How long this takes really depends on the pasta you're using, it took about 15 mins with tagliatelle
-     - Make sure that the tagliatelle is actually being cooked fully. If it's partially uncovered by the liquid it'll need to be stirred a few times.
-     - If the liquid level is getting low and the pasta isn't yet cooked then add some more water. Don't add too much otherwise you might end up overcooking the pasta while bring the sauce to the right consistency
 1. Once pasta is correct firmness, add the cheese and parsley, save a little of each for garnishing
 1. If sauce is still too watery, turn the heat up to cook it down to correct consistency quickly
 1. Serve in bowl and garnish with parsley & parmigiano
