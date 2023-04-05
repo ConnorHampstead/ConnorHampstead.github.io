@@ -19,6 +19,7 @@ ingredients:
     - 400g kidney beans in chilli sauce
     - 1x beef stock cube
     - salt to taste
+    - 1 small can sweetcorn
     - "[Seasoning]"
     - 3tsp chilli powder
     - 1.5tsp ground cumin
@@ -50,7 +51,7 @@ content_image: "/images/chilli-3.jpg"
 1. Add red wine, let cook down for a couple of minutes
 1. Add all seasoning, cook for a further minute
 1. Add tomatoes, dark chocolate, coffee, beef stock. Bring to boil then reduce to simmer (4) and let simmer covered for 20-30 mins, stirring occasionally
-1. Add Kidney beans, turn up heat & cook for a further 5 mins or until desired consistency achieved
+1. Add Kidney beans & sweetcorn, turn up heat & cook for a further 5 mins or until desired consistency achieved
 1. Taste, add salt to taste once consistency achieved
 
 ### Plating
