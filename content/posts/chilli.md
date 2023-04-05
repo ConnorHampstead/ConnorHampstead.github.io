@@ -29,6 +29,7 @@ ingredients:
     - 1/2tsp cayenne powder
     - 1tsp black pepper
     - 1tsp white sugar
+    - 1.5tsp smoked paprika
 difficulty: 3
 review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour rich and deep."
 featured_image: "/images/chilli-2.jpg"
