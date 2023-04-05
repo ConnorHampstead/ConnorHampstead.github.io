@@ -38,3 +38,5 @@ content_image: "/images/garlic-pasta.png"
 - Adjust the consistency of the sauce by adding more or less liquid as needed.
 - Could maybe do with more pasta next time since it was quite saucy. Maybe 1.5x sauce and 2x pasta. 
 - Fettuccine/Pappardelle maybe better? 
+
+![plated-pasta](/images/garlic-pasta.png)
