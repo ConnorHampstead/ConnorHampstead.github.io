@@ -11,7 +11,7 @@ ingredients:
     - 2 large white onions
     - 4 large cloves garlic
     - 500g beef mince
-    - 400g chopped tomatoes (those nice ones from AH, they make a big difference)
+    - 400g chopped tomatoes (those nice ones from AH, they make a big difference (I have since been informed by Kaj that the brand is Mutti and everyone knows Mutti so calling them 'those nice ones from AH' isn't a good description if any of my friends read this page))
     - 50ml red wine
     - 25g dark (85%+) chocolate
     - 1/2tsp instant coffee grounds
