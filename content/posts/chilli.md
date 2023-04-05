@@ -30,7 +30,7 @@ ingredients:
     - 1tsp black pepper
     - 1tsp white sugar
 difficulty: 3
-review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour rich and deep.
+review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour rich and deep."
 featured_image: "/images/chilli-2.jpg"
 content_image: "/images/chilli-3.jpg"
 ---
