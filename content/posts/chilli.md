@@ -30,7 +30,7 @@ ingredients:
     - 1tsp black pepper
     - 1tsp white sugar
 difficulty: 3
-review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour quite rich and deep, maybe needs something to add a little sweetness or sourness/tanginess. carrots & worcestershire sauce maybe?
+review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour rich and deep.
 featured_image: "/images/chilli-2.jpg"
 content_image: "/images/chilli-3.jpg"
 ---
@@ -60,5 +60,8 @@ content_image: "/images/chilli-3.jpg"
 - Yoghurt or sour cream
 - Garnish with some parsley
 - Serve with rice, garlic bread, tortilla chips, in a wrap, or any combination
+
+### Notes:
+- Needs something to add a little sweetness or sourness/tanginess - carrots & worcestershire sauce maybe?
 
 ![plated-chilli](/images/chilli-1.jpg)

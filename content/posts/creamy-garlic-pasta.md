@@ -16,7 +16,7 @@ ingredients:
     - "Parsley | roughly a handful"
     - "Parmigiano Reggiano | roughly a handful"
 difficulty: 2
-review: "Super nice, super easy, garlicky taste was strong. Could maybe do with more pasta next time since it was quite saucy. Maybe 1.5x sauce ingredients 2x pasta. Also, fettuccine maybe better?"
+review: "Super nice, super easy, garlicky taste was strong."
 featured_image: "/images/garlic-pasta.png"
 content_image: "/images/garlic-pasta.png"
 ---
@@ -49,4 +49,5 @@ content_image: "/images/garlic-pasta.png"
 
 - If you prefer a milder garlic flavor, use fewer cloves.
 - Adjust the consistency of the sauce by adding more or less liquid as needed.
->>>>>>> c6b717403f0d28246664e449c32037ca320023aa
+- Could maybe do with more pasta next time since it was quite saucy. Maybe 1.5x sauce and 2x pasta. 
+- Fettuccine/Pappardelle maybe better?
