@@ -1,12 +1,11 @@
 baseURL = '/'
 languageCode = 'en-gb'
-title = "Connor's Cuisine"
+title = "Food Diary"
 theme = 'ananke'
 
 [taxonomies]
   tags = "tags"
   categories = "categories"
-  rating = "rating"
   review = "review"
   difficulty = "difficulty"
   ingredients = "ingredients"

@@ -1,11 +1,11 @@
 {{ define "header" }}
    {{/* We can override any block in the baseof file be defining it in the template */}}
-  {{ partial "page-header.html" . }}
+  {{ partial "content-page-header.html" . }}
 {{ end }}
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph3 bg-white">
+  <article class="flex-l flex-wrap justify-center mw8 center ph3">
     <header class="mt4 w-100">
       <aside class="instapaper_ignoref b helvetica tracked">
           {{/*
@@ -47,9 +47,9 @@
         <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
       {{ end }}
     </header>
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-three-quarters-l">
       {{ partial "tags.html" . }}
-      <h3>Rating {{ .Params.rating }}/10 | Difficulty {{ .Params.difficulty }}/10</h3>
+      <h3>Difficulty {{ .Params.difficulty }}/10</h3>
       {{ .Params.review }}
       <h2>Ingredients</h2>
       - {{ delimit .Params.ingredients "<br>- " }}

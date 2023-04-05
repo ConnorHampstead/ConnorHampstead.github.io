@@ -1,23 +1,24 @@
 ---
-title: "One Pot Creamy Garlic Pasta"
+title: "Creamy Garlic Pasta"
 date: 2023-04-01T16:27:18Z
 draft: false
 tags:
-    - "Italian"
+    - Italian
     - Vegetarian
     - Mains
+    - One Pot
 ingredients: 
-    - "Tagliatelle or similar pasta"
+    - "250g Tagliatelle"
     - "Butter | 2 tbsp"
     - "Garlic Cloves | 5-6"
     - "Full Milk | roughly 250ml"
-    - "Chicken Stock | 500ml"
-    - "Parsley | as much as desired, roughly a handful"
-    - "Parmigiano Reggiano | as much as desired, roughly a handful"
-rating: 8
+    - "Chicken Stock | (2 stock cubes + 500ml hot water)"
+    - "Parsley | roughly a handful"
+    - "Parmigiano Reggiano | roughly a handful"
 difficulty: 2
-review: "The effort:reward ratio for this is probably the best of any pasta I've made. Difficult to mess up and super cheap. This recipe calls for 5-6 cloves of garlic which made it very strong, use less if you don't like a strong garlicky taste"
+review: "Super nice, super easy, garlicky taste was strong. Could maybe do with more pasta next time since it was quite saucy. Maybe 1.5x sauce ingredients 2x pasta. Also, fettuccine maybe better?"
 featured_image: "/images/garlic-pasta.png"
+content_image: "/images/garlic-pasta.png"
 ---
 
 ### Prep
@@ -38,5 +39,5 @@ featured_image: "/images/garlic-pasta.png"
      - Make sure that the tagliatelle is actually being cooked fully. If it's partially uncovered by the liquid it'll need to be stirred a few times.
      - If the liquid level is getting low and the pasta isn't yet cooked then add some more water. Don't add too much otherwise you might end up overcooking the pasta while bring the sauce to the right consistency
 1. Once pasta is correct firmness, add the cheese and parsley, save a little of each for garnishing
-1. If sauce is still too watery, turn the heat up to cook it down quickly, it's up to you how thick you want it
+1. If sauce is still too watery, turn the heat up to cook it down to correct consistency quickly
 1. Serve in bowl and garnish with parsley & parmigiano
