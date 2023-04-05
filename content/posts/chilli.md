@@ -30,7 +30,7 @@ ingredients:
     - 1tsp black pepper
     - 1tsp white sugar
 difficulty: 3
-review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour quite rich and deep, could maybe use worcestershire sauce to "
+review: "Surprisingly complex flavour. Pretty straight forward, bit of prep to start with then throw everything in a pot and wait. Flavour quite rich and deep, maybe needs something to add a little sweetness or sourness/tanginess. carrots & worcestershire sauce maybe?
 featured_image: "/images/chilli-2.jpg"
 content_image: "/images/chilli-3.jpg"
 ---
