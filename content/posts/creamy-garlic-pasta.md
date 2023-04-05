@@ -33,7 +33,6 @@ content_image: "/images/garlic-pasta.png"
 1. Serve the pasta in bowls and garnish with reserved Parmigiano Reggiano and parsley.
 
 
-<<<<<<< HEAD
 1. Preheat pan to roughly 7/10, melt butter & fry garlic for a minute or two until golden brown & fragrant
 1. Add milk and chicken stock
 1. Add pasta to pan
@@ -45,7 +44,7 @@ content_image: "/images/garlic-pasta.png"
 1. Once pasta is correct firmness, add the cheese and parsley, save a little of each for garnishing
 1. If sauce is still too watery, turn the heat up to cook it down to correct consistency quickly
 1. Serve in bowl and garnish with parsley & parmigiano
-=======
+
 ### Notes:
 
 - If you prefer a milder garlic flavor, use fewer cloves.
